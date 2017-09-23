@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ColeccionDeJuegos
 //
-//  Created by Mac  Tecsup on 18/09/17.
+//  Created by Mac Tecsup on 18/09/17.
 //  Copyright © 2017 Tecsup. All rights reserved.
 //
 

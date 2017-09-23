@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E2A81E8C1F705ED50091E8D1"
+               BlueprintIdentifier = "E216B5631F7060D60028D0B6"
                BuildableName = "ColeccionDeJuegos.app"
                BlueprintName = "ColeccionDeJuegos"
                ReferencedContainer = "container:ColeccionDeJuegos.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E2A81E8C1F705ED50091E8D1"
+            BlueprintIdentifier = "E216B5631F7060D60028D0B6"
             BuildableName = "ColeccionDeJuegos.app"
             BlueprintName = "ColeccionDeJuegos"
             ReferencedContainer = "container:ColeccionDeJuegos.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E2A81E8C1F705ED50091E8D1"
+            BlueprintIdentifier = "E216B5631F7060D60028D0B6"
             BuildableName = "ColeccionDeJuegos.app"
             BlueprintName = "ColeccionDeJuegos"
             ReferencedContainer = "container:ColeccionDeJuegos.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E2A81E8C1F705ED50091E8D1"
+            BlueprintIdentifier = "E216B5631F7060D60028D0B6"
             BuildableName = "ColeccionDeJuegos.app"
             BlueprintName = "ColeccionDeJuegos"
             ReferencedContainer = "container:ColeccionDeJuegos.xcodeproj">
